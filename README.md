@@ -25,7 +25,7 @@ A comprehensive business intelligence solution for analyzing sales performance a
 ## 🖼️ Dashboard Showcase
 
 ### Sales Overview Dashboard
-![Sales Overview](Images/sales_dashboard.jpg)
+![Sales Overview](https://github.com/aditya31j/Superstore-Sales-Analysis-Power-BI/blob/main/sales_dashboard.jpg.png)
 
 ### 15-Day Sales Forecast
 ![Sales Forecast](Images/forecast_dashboard.png)
