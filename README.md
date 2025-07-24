@@ -7,7 +7,7 @@ A comprehensive business intelligence solution for analyzing sales performance a
 
 ##  Live Interactive Dashboard
 
-### [Click Here to Interact with the Live Report](https://your-public-power-bi-link.com)
+### [Click Here to Interact with the Live Report](https://github.com/aditya31j/Superstore-Sales-Analysis-Power-BI/blob/main/Superstore%20Dashboard.pbix)
 
 
 ---
